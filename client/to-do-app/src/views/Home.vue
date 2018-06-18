@@ -3,11 +3,11 @@
         <header>
             <h1>
                 <router-link :to="{name: 'topicIndex'}">
-                    Galvanize Votes
+                    <!-- Galvanize Votes -->
                 </router-link>
             </h1>
             <router-link :to="{name: 'signIn'}">
-                <i class="material-icons exit">exit_to_app</i>
+                <i class="material-icons exit">Return Home</i>
             </router-link>
         </header>
         <main>
